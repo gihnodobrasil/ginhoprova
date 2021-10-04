@@ -149,7 +149,7 @@ List
   padding-left: 3rem;
 }
 
-.list--tick .list_item {
+.list--tick .list _item {
   padding-left: 0.5rem;
   margin-bottom: 1rem;
 }
@@ -173,3 +173,12 @@ Icons
   fill: var(--color-primary);
 }
 
+.icon-container {
+  background: #f3f9fa;
+  width: 64px;
+  height: 64px;
+  border-radius: 100px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
