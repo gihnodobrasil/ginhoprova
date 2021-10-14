@@ -1,0 +1,23 @@
+navigation bar->icon&text + inline list
+
+Cloud Hosting for Pros->hero->grid,heading, text, button,img
+
+Starting at $10 per month->form->heading,text,input field,button
+
+inline list
+
+3 cards>animation, header, list, button:hover
+
+Host on the Cloud to Keep Growing
+grid->header, text, img, link, icon round blu
+grid->header, text, img, link, icon round blu
+grid->header, text, img, link, icon round blu
+grid->header, text, img, link, icon round blu
+
+grid->User friendly control panel->grid, media object(icon on the left, heading and text)background, header, text, img, icons
+
+what our customers are saying->header, img, text
+
+banner->ready to get started->button, header, text
+
+coda->links, text
