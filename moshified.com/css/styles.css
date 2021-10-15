@@ -233,7 +233,7 @@ Buttons
   font-weight: 600;
   margin: 1rem 0;
   outline: 0;
-  padding: 2rem 3rem;
+  padding: 2rem 4vw;
   text-transform: uppercase;
   white-space: nowrap;
   text-align: center;
@@ -326,6 +326,7 @@ Inputs
   border: 0;
   flex-grow: 1;
   padding: 1.5rem 2rem;
+  width: 0;
 }
 
 .input-group .btn {
@@ -803,8 +804,9 @@ Domain Block
 }
 
 .block-domain__prices {
+  color: var(--color-headings);
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 6rem);
   font-size: 2rem;
   font-weight: 600;
